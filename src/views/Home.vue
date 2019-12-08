@@ -1,6 +1,6 @@
 <template>
   <div class="loginItem">
-    <h1>Login</h1>
+    <h1>Broctagon Login</h1>
     <md-field class="sd">
       <label>Username</label>
       <md-input class="inputItem" v-model="username"></md-input>
@@ -38,8 +38,8 @@ export default {
 <style lang="css" scoped>
 .loginItem {
   margin: auto;
-  width: 233px;
-  height: 74px;
+  width: 350px;
+  height: 100px;
   vertical-align: middle;
 }
 .inputItem {

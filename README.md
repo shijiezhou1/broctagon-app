@@ -2,7 +2,7 @@
 
 The demo use vuejs to show a sample design on page of the website: 
 
-Demo: [https://www.shijiezhou1.github.io/broctagon-app](https://www.shijiezhou1.github.io/broctagon-app)
+Demo: [https://shijiezhou1.github.io/broctagon-app/](https://shijiezhou1.github.io/broctagon-app/)
 
 ## Project setup
 ```
